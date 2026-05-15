@@ -130,29 +130,35 @@ SIMULATED ARMA(1,1) PROCESS:
 
 Partial Autocorrelation
 
-<img width="990" height="690" alt="image" src="https://github.com/user-attachments/assets/141b89c1-1565-48a3-9ab9-f6ce8ba7351f" />
+
+<img width="998" height="355" alt="image" src="https://github.com/user-attachments/assets/8b2ace5b-32aa-4752-9a74-1ab2b7eb92e0" />
+
 
 Autocorrelation
 
-<img width="990" height="690" alt="image" src="https://github.com/user-attachments/assets/4cf90c99-ba27-4b11-a3d3-8d0f250b877d" />
+
+<img width="988" height="356" alt="image" src="https://github.com/user-attachments/assets/33a0a3a1-bacc-43a3-8fa2-5c94de7f6654" />
 
 
 
 SIMULATED ARMA(2,2) PROCESS:
 
 
-<img width="857" height="624" alt="image" src="https://github.com/user-attachments/assets/b4e5194c-e72f-443a-838b-86935df6a4a2" />
+<img width="857" height="624" alt="image" src="https://github.com/user-attachments/assets/ba7a4604-dcdd-48d5-99b5-d7b78fd32144" />
 
 Partial Autocorrelation
 
-<img width="990" height="690" alt="image" src="https://github.com/user-attachments/assets/e9554a20-e56d-4e9f-bdbf-12209b25057d" />
+
+<img width="993" height="351" alt="image" src="https://github.com/user-attachments/assets/6ecc5c2a-cfb5-42d6-a3e7-1d504c1f0d9b" />
 
 
 
 Autocorrelation
 
 
-<img width="990" height="690" alt="image" src="https://github.com/user-attachments/assets/5e8bb207-11ee-4953-a0f9-9bf494bc3283" />
+<img width="994" height="360" alt="image" src="https://github.com/user-attachments/assets/b8be86e2-ff75-427e-91d8-35c5e3645eab" />
+
+
 
 RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
